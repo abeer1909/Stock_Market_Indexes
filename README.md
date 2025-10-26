@@ -12,7 +12,7 @@ This Excel project compares the historical performance, risk, and investment out
  - FTSE was the only Index which actually showed increased CAGR when last CAGR of 2015 - 2025 was compared to CAGR of 2020 - 2025.
  - DAX is out performing NIFTY 50 for the first in history.
  - There is a very strong correlation between DAX & NASDAQ; DAX & FTSE; DAX & CAC 40.
- - A very interesting thing is that every year in the month of March, we have noticed a downfall in the prices of every stock exchange.  
+ - A very interesting thing is that every year in the month of March, we have noticed a downfall in the prices of every stock index in the project.  
 
 
 ## How to use?
